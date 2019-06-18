@@ -41,9 +41,6 @@ until counter == 7
   counter += 1
 end
 
-
-
-
 def for_iterator
   puts "Welcome to Flatiron School's Web Development Course!"
 end
@@ -51,8 +48,4 @@ end
 number_of_times = 1..7
 for number of times
   puts "#{for_iterator}"
-end
-
-
-
 end
